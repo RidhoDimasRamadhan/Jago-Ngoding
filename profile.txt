@@ -1,9 +1,12 @@
 Nama : Ridho Dimas Ramdhan
-Kelas : 2KA24
+Kelas : 3KA24
 NPM : 10120999
 
 Skill :
 1) HTML
 2) CSS
 3) JS
-4) C++
+4) PHP
+
+Framework : 
+1) React
