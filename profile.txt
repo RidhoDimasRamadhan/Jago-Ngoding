@@ -6,7 +6,14 @@ Skill :
 1) HTML
 2) CSS
 3) JS
-4) PHP
+4) C
+5) Web Grafis
+6) BOOTSTRAP
+7) PHP
 
 Framework : 
 1) React
+2) Angular
+
+Database : 
+1) MYSQL
